@@ -1,3 +1,13 @@
+/*
+Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+All rights reserved.  
+
+Unauthorized copying, modification, or distribution of this file,  
+via any medium, is strictly prohibited.  
+
+DO NOT DISTRIBUTE.
+*/
+
 #include <iostream>
 #include <random> // Für Zufallszahlen
 #include <ctime>  // Für die Initialisierung des Zufallsgenerators
