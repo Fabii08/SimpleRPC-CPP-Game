@@ -22,5 +22,5 @@ Follow these instructions to set up and run the game on your own machine.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Fabii08/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Fabii08/SimpleRPC-CPP-Game.git
+   cd SimpleRPC-CPP-Game
